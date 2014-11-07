@@ -7,6 +7,7 @@ Some themes for Typecho
 iNove是一款经典的WordPress主题，原作者mg12。现将其移植到Typecho上，希望大家喜欢。
 
 WordPress version: http://www.neoease.com/inove/
+
 Typecho version: https://github.com/Cyesu/themecho/tree/master/inove
 
 
