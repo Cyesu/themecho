@@ -721,7 +721,8 @@ textarea {
 	margin-left:20px;
 }
 a#powered {
-	background:url(img/wp-logo.png) no-repeat;
+	/* background:url(img/wp-logo.png) no-repeat; */
+	background:url(img/te-logo.png) no-repeat;
 	display:block;
 	width:92px;
 	height:57px;
