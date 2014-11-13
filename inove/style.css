@@ -234,11 +234,11 @@ textarea {
 	z-index:1;
 }
 #menus li a:hover, 
-#menus li a.current {
+#menus li.current a {
 	background-position:0 -31px;
 }
-#menus li.current_page_item a, 
-#menus li.current-cat a {
+/*#menus li.current_page_item a, */
+#menus li.current a {
 	background-position:0 -62px;
 }
 #menus li a.home {
@@ -251,7 +251,7 @@ textarea {
 #menus li a.home:hover {
 	background-position:0 -124px;
 }
-#menus li.current_page_item a.home {
+#menus li.current a.home {
 	background-position:0 -155px;
 }
 #menus li a.lastmenu:hover {
@@ -324,7 +324,7 @@ textarea {
 	border-color:#A6A6A6;
 }
 #menus li li a:hover, 
-#menus li li a.current {
+#menus li li.current a {
 	background-color:#EDEFF0;
 	color:#382E1F;
 }
